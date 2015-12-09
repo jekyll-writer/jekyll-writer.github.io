@@ -1,1 +1,0 @@
-# jekyll-writer.github.io

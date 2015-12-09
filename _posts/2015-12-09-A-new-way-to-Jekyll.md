@@ -30,3 +30,4 @@ MoteDown在未来一段时间里会发布4个版本：Egg，Caterpillar，Pupa�
 ![](https://dn-sneezry.qbox.me/motedown-1.png)
 ![](https://dn-sneezry.qbox.me/motedown-2.png)
 ![](https://dn-sneezry.qbox.me/motedown-3.png)
+![](https://dn-sneezry.qbox.me/motedown-4.png)

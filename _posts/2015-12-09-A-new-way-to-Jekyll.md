@@ -26,3 +26,7 @@ MoteDown自带了一个Markdown编辑器，也可以方便地预览Markdown编�
 MoteDown在未来一段时间里会发布4个版本：Egg，Caterpillar，Pupa和Butterfly，其中Egg会在非常有限的人群中提供测试，Caterpiller会在一部分人群中提供测试，Pupa会公开测试，Butterfly会是一个功能相对完善、性能相对稳定的正式版本。
 
 当然，能听到你的想法，是我最盼望的事情 :)
+
+![](https://dn-sneezry.qbox.me/motedown-1.png)
+![](https://dn-sneezry.qbox.me/motedown-2.png)
+![](https://dn-sneezry.qbox.me/motedown-3.png)
